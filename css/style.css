@@ -1,0 +1,16 @@
+/* CSS for CKEditor demo */
+
+body {width:1000px;
+	  margin:0 auto;
+	  background-color: lightblue;
+}
+
+table {width:50%;
+	   border:1px solid #333;
+}
+
+th {background-color: #000;
+	color:#fff;
+}
+
+td {text-align:center;}
